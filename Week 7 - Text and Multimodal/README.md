@@ -1,4 +1,5 @@
 # 🫁 Privacy-Preserving Multimodal Clinical Triage System
+### Week 7 - Text and Multimodal
 
 An end-to-end multimodal AI decision-support pipeline combining Deep Learning Computer Vision (Chest X-Ray classification) with Privacy-Safe Natural Language Processing (Clinical Entity Extraction & OCR Repair) for automated medical triage.
 
