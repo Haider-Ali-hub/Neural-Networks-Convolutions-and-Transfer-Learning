@@ -1,0 +1,9 @@
+# Install torch/torchvision first (CPU build):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+python-multipart
+pillow
+pytest
+httpx
+numpy
